@@ -39,3 +39,7 @@ urllib3
 xattr
 yt-dlp
 waybackpy
+pyrogram>=2
+httplib2shim
+progress
+progressbar2
